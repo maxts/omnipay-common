@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/common",
+    "name": "maxts/omnipay-common",
     "type": "library",
     "description": "Common components for Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "payment",
         "purchase"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-common",
+    "homepage": "https://github.com/maxts/omnipay-common",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
     "require": {
         "php": ">=5.3.2",
         "guzzle/guzzle": "~3.9",
-        "symfony/http-foundation": "~2.1"
+        "symfony/http-foundation": "~3.0"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
